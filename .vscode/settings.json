@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Adiyasa Joyleap Technical Test.sln"
+    "dotnet.defaultSolution": "Joyleap-Technical-Test.sln"
 }
